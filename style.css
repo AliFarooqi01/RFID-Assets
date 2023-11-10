@@ -245,7 +245,7 @@ html[data-bs-theme="light"] .theme-toggle .fa-sun {
     font-weight: 500;
     border-width: 1px;
 }
-.sets1{
+.modal-table{
     gap: 10px;
     display: flex !important;
 }
