@@ -245,14 +245,14 @@ html[data-bs-theme="light"] .theme-toggle .fa-sun {
     font-weight: 500;
     border-width: 1px;
 }
-.modal-table{
+.sets1{
     gap: 10px;
     display: flex !important;
 }
 @media (max-width:767.98px) {
 
     .modal-table{
-        display: inline-block ;
+        display: inline-block  !important;
     }
 
 }
