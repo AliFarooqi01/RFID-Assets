@@ -228,7 +228,7 @@ html[data-bs-theme="light"] .theme-toggle .fa-sun {
     display: none;
 }
 
-/* ///////table///////////// */
+/* ///////table & Modal///////////// */
 .table{
     
 }
@@ -247,4 +247,11 @@ html[data-bs-theme="light"] .theme-toggle .fa-sun {
 }
 .modal-table{
     gap: 10px;
+}
+@media (max-width:767.98px) {
+
+    .modal-table{
+        display: inline-block !important;
+    }
+
 }
